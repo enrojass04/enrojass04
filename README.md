@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin R</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">I am a Systems Engineer and a passionate fullstack developer from Colombia.</h3>
 
 - 🌱 I’m currently learning **React, Express**
 
